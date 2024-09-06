@@ -66,12 +66,10 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 
 ### 📝 To-Do List
 - 🔄 Add more music tracks lol.
-- 🎶 Support for more audio formats? Maybe
-- 🕹️ A CLOSE BUTTON LMAO
+- 🎶 Support for more audio formats? Maybe.
+- 🕹️ A CLOSE BUTTON LMAO.
 
 ---
 
 ### 🤝 Contributions
 Feel free to fork this repository, open issues, or submit pull requests!
-
----
