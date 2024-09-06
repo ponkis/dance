@@ -73,3 +73,5 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 
 ### 🤝 Contributions
 Feel free to fork this repository, open issues, or submit pull requests!
+
+---
