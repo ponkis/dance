@@ -3,15 +3,15 @@
 ---
 
 ### 🚀 Description
-This project plays a random dancing GIF on the screen, synchronized with a random music track. The GIF moves around the screen in sync with the BPM of the music, creating a fun visual experience. This Python project uses **Tkinter** for the GUI, **Pillow** for handling GIFs, and **Pygame** to play music.
+This project plays a random dancing GIF that moves in sync with the BPM of a randomly selected music track. It uses **Tkinter** for the GUI, **Pillow** for GIF handling, and **Pygame** for music.
 
 ---
 
----
-
-### 🎵 IMPORTANT (HOW TO ADD SONGS)
-For adding songs you MUST add the file name with its extension ex: **909.mp3** to the **BPM.txt** file inside the **bpm** folder, alongside the BPM of the song ex: **127**
-*909.mp3 = 127*
+### 🎵 Adding Songs
+To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in **BPM.txt** in the **bpm** folder:
+```
+909.mp3 = 127
+```
 
 ---
 
