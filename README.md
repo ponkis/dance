@@ -23,10 +23,10 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 ---
 
 ### 🛠️ Technologies Used
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-- ![Tkinter](https://img.shields.io/badge/-Tkinter-FF4500?style=for-the-badge)
-- ![Pillow](https://img.shields.io/badge/-Pillow-FFD700?logo=pillow&style=for-the-badge)
-- ![Pygame](https://img.shields.io/badge/-Pygame-00FF00?logo=pygame&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FF4500?style=for-the-badge)
+![Pillow](https://img.shields.io/badge/-Pillow-FFD700?logo=pillow&style=for-the-badge)
+![Pygame](https://img.shields.io/badge/-Pygame-00FF00?logo=pygame&style=for-the-badge)
 
 ---
 
@@ -73,6 +73,5 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 
 ### 🤝 Contributions
 Feel free to fork this repository, open issues, or submit pull requests!
-```
 
 ---
