@@ -33,11 +33,11 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 ### 🔧 Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dance-gif-player.git
+   git clone https://github.com/ponkiss/dance.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd dance-gif-player
+   cd dance
    ```
 3. Install dependencies:
    ```bash
@@ -54,12 +54,15 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 ```
 .
 ├── assets
-│   ├── audio           # Folder containing music files (MP3)
-│   ├── bpm             # Folder containing BPM configuration file
-│   └── gif             # Folder containing the GIF file
-├── main.py             # Main script to run the application
-├── requirements.txt    # Python dependencies file
-└── README.md           # Project documentation
+│   ├── audio          # Folder containing music files (MP3)
+│   ├── bpm            # Folder containing BPM configuration file
+│   └── gif            # Folder containing the GIF file
+├── src
+│   └── main.py        # Main bot script
+├── .gitignore         # Git ignore file for ignoring unnecessary files
+├── LICENSE            # License
+├── requirements.txt   # Python dependencies file
+└── README.md          # Project documentation
 ```
 
 ---
