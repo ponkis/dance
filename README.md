@@ -45,6 +45,7 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
    ```
 4. Run the application:
    ```bash
+   cd src
    python main.py
    ```
 
