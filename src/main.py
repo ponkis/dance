@@ -31,7 +31,7 @@ class dance:
         with open(bpm_file_path, 'r') as bpm_file:
             bpms = {line.split('=')[0].strip(): int(line.split('=')[1].strip()) for line in bpm_file if '=' in line}
 
-        music_paths = [os.path.join(music_folder, f) for f in os.listdir(music_folder) if f.endswith('.mp3') and f in bpms]
+        music_paths = [os.path.join(music_folder, f) for f in os.listdir(music_folder) if f.endswith('.wav') and f in bpms]
         return music_paths, [bpms[os.path.basename(path)] for path in music_paths]
 
     def update_gif(self):
