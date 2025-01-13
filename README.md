@@ -8,10 +8,7 @@ This project plays a random dancing GIF that moves in sync with the BPM of a ran
 ---
 
 ### 🎵 Adding Songs
-To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in **BPM.txt** in the **bpm** folder:
-```
-909.mp3 = 127
-```
+To add a song, just select it from your files when promted. (You can also select multiple songs) The program will choose a random song for you.
 
 ---
 
@@ -55,8 +52,6 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 ```
 .
 ├── assets
-│   ├── audio          # Folder containing music files (MP3)
-│   ├── bpm            # Folder containing BPM configuration file
 │   └── gif            # Folder containing the GIF file
 ├── src
 │   └── main.py        # Main bot script
@@ -69,8 +64,6 @@ To add a song, list its filename (e.g., **909.mp3**) and BPM (e.g., **127**) in 
 ---
 
 ### 📝 To-Do List
-- 🔄 Add more music tracks lol.
-- 🎶 Support for more audio formats? Maybe.
 - 🕹️ A CLOSE BUTTON LMAO.
 
 ---
