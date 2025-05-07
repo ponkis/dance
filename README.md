@@ -51,8 +51,8 @@ To add a song, just select it from your files when promted. (You can also select
 ### 📂 Project Structure
 ```
 .
-├── assets
-│   └── gif            # Folder containing the GIF file
+├── files
+│   └── img            # Folder containing the GIF file
 ├── src
 │   └── main.py        # Main bot script
 ├── .gitignore         # Git ignore file for ignoring unnecessary files

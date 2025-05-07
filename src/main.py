@@ -86,6 +86,6 @@ class DanceApp:
 
 
 if __name__ == "__main__":
-    gif_paths = ["assets/images/lain.gif"]
+    gif_paths = ["files/img/lain.gif"]
     app = DanceApp(gif_paths)
     app.run()
